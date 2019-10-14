@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="default.html" />
+    <Content Include="rootstyles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
